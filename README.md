@@ -8,7 +8,7 @@
 从 https://www.autohotkey.com 下载并安装 AutoHotkey v2.0。
 
 ## 2. 编写脚本 (.ahk)
-创建一个本文命名为 **MyPrompts.ahk**，复制以下内容并保存：
+创建一个文本可命名为 **MyPrompts.ahk**，复制以下代码并保存：
 ```
 #Requires AutoHotkey v2.0
 #SingleInstance Force
