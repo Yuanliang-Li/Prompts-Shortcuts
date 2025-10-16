@@ -1,5 +1,9 @@
 # Prompts-Shortcuts
 
+## 安装AutoHotkey v2.0
+
+## 脚本 (.ahk)
+创建一个本文命名为 **MyPrompts.ahk**，复制以下内容并保存：
 ```
 #Requires AutoHotkey v2.0
 #SingleInstance Force
@@ -168,3 +172,7 @@ InsertPrompt(text, *) {
 }
 
 ```
+
+保存后双击该文件载入AutoHotkey，便可键入 Ctrl+Alt+E 使用英文写作的Prompt, 或键入 Ctrl+Alt+' 使用代码编写的Prompt。
+
+
