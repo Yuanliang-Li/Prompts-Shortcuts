@@ -1,6 +1,11 @@
 # Prompts-Shortcuts
 
+基于AutoHotkey v2.0，保存便于ChatGPT或其他LLM使用的各种提示词，仅用于Windows OS。
+
+使用步骤如下：
+
 ## 1. 安装AutoHotkey v2.0
+
 
 ## 2. 编写脚本 (.ahk)
 创建一个本文命名为 **MyPrompts.ahk**，复制以下内容并保存：
