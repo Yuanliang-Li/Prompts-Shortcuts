@@ -5,7 +5,7 @@
 使用步骤如下：
 
 ## 1. 安装AutoHotkey v2.0
-
+从 https://www.autohotkey.com 下载并安装 AutoHotkey v2.0。
 
 ## 2. 编写脚本 (.ahk)
 创建一个本文命名为 **MyPrompts.ahk**，复制以下内容并保存：
